@@ -15,7 +15,9 @@
 	<a href="#prints-do-projeto">Prints do projeto</a>
 </p>
 
-![screenshot](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F02%2FUber-Font-GIF.gif&f=1&nofb=1&ipt=9fac6bbf3405133e3b26c474599cd69f8687f97dd242885f46889697632c5e95&ipo=images)
+<p align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Faa%2Fce%2Fd5%2Faaced55d964bf01ed91e82b06ed852e1.gif&f=1&nofb=1&ipt=9824a32814f14c789b7346dd8b8e99b734e7042396f1c7256888c2c7b16c1dce&ipo=images"/>
+</p>
 
 ## Tecnologias
 
