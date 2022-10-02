@@ -32,7 +32,13 @@
 * Geolocation
 * Navigations
 
+## Atenção
 
+* Para usar o app precisa de uma key do google maps com as seguintes funçoes habilitadas </br>
+	-Directions API</br>
+	-Distance Matrix API</br>
+	-Maps SDK for Android</br>
+	-Places API
 
 ## Como Baixar
 
